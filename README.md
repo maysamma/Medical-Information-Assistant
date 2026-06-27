@@ -1,7 +1,5 @@
 # 🩺 Medical Information Assistant
 
-# 🤖 Multi-Agent Creative Story Building System
-
 <p align="center">
   <img src="assets/Medical_AI.png" alt="Medical-Information-Assistant" width="900"/>
 </p>
