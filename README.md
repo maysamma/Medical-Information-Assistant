@@ -45,7 +45,7 @@ Medical-Information-Assistant/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 ├── .gitignore
-├── .env.example
+├── Reference_Agent_System_Walkthrough_Guardrails.ipynb
 │
 ├── assets/
 │   └── Medical_AI.png
