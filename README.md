@@ -1,5 +1,13 @@
 # 🩺 Medical Information Assistant
 
+# 🤖 Multi-Agent Creative Story Building System
+
+<p align="center">
+  <img src="assets/Medical_AI.png" alt="Medical-Information-Assistant" width="900"/>
+</p>
+
+---
+
 An AI-powered Medical Information Assistant developed using **Python**, **Streamlit**, and the **OpenAI API**. The application provides users with reliable medical information through an intuitive conversational interface while incorporating guardrails and tool-based workflows to improve response quality and user safety.
 
 ---
