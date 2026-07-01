@@ -8,6 +8,8 @@
 
 An AI-powered Medical Information Assistant developed using **Python**, **Streamlit**, and the **OpenAI API**. The application provides users with reliable medical information through an intuitive conversational interface while incorporating guardrails and tool-based workflows to improve response quality and user safety.
 
+Demo : https://medical-information-assistant.streamlit.app/
+
 ---
 
 ## 📖 Overview
